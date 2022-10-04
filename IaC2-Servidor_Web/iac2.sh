@@ -21,7 +21,7 @@ unzip main.zip
 
 echo ""
 echo "Copiando arquivos..."
-cd linux-site-dio
+cd linux-site-dio-main
 cp -R * /var/www/html
 
 echo ""
